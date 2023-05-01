@@ -6,4 +6,4 @@ Références :
 * https://johanhelsing.studio/posts/physics-01-balls
 * https://github.com/bagnalla/newton_bevy/tree/main
 * https://bagnalla.github.io/posts/newton_bevy.html
-
+* https://towardsdatascience.com/modelling-the-three-body-problem-in-classical-mechanics-using-python-9dc270ad7767
