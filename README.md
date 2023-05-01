@@ -1,6 +1,4 @@
-Référence: 
-* https://bagnalla.github.io/posts/newton_bevy.html
-
+Utilisation de bevy pour simulations physiques (n-body)
 ECS is a software pattern that involves breaking your program up into Entities, Components, and Systems. Entities are unique "things" that are assigned groups of Components, which are then processed using Systems.
 
 In other words:
