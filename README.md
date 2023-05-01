@@ -9,6 +9,7 @@ In other words:
 
 * System - A system is a chunk of code that runs once per update cycle (i.e., every “frame”) with reference to a specific collection of entities. The entities visible to a system are selected by a query, where the semantics of the query (the subset of the world’s entities it selects) is determined by the query’s type. This is where things get really interesting, because Bevy can schedule systems to run in parallel when it can guarantee the absence of race conditions from looking at the types of their queries.
 
-Voir les éréférences" dans "examples".
+Voir les "références" dans "examples".
+
 Pour lancer un exemple (voir conf dans Cargo.toml) : 
 cargo run --examples kepler_orbit
